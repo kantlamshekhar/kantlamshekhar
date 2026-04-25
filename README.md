@@ -83,7 +83,7 @@ I am passionate about continuous learning, problem-solving, building meaningful 
 
 ### 📫 Connect With Me
 
-- GitHub: https://github.com/ai-shekhar  
+- GitHub: https://github.com/kantlamshekhar
 - Open to collaboration, learning, and interesting project discussions
 
 ---
